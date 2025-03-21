@@ -1,7 +1,7 @@
 # Integrating-AI-assistant-into-a-website
 Интеграция AI ассистента на вебсайт для записи клиента на консультацию.
 
-[Скриншоты работы проекта](https://github.com/VladimirMenshikov/Integrating-AI-assistant-into-a-website/edit/main/img/README.md)
+[Скриншоты работы проекта](./img/README.md)
 
 ## Виртуальный Ассистент для записи клиентов: ваш надежный помощник 24/7
 
